@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matheucortinasasasas.github.io/cortinas-ia-landing/sitemap.xml
